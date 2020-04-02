@@ -1,0 +1,19 @@
+{
+  "name": "necklace-matching-383",
+  "version": "1.0.0",
+  "description": "A solution for r/Dailyprogrammer's challenge# 383",
+  "main": "necklace-match.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracetveit/Necklace-matching.git"
+  },
+  "author": "Grace Tveit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracetveit/Necklace-matching/issues"
+  },
+  "homepage": "https://github.com/gracetveit/Necklace-matching#readme"
+}
